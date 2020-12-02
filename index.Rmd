@@ -10,7 +10,11 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: danBurrell/computational-statistics
+<<<<<<< HEAD
 description: "A text on statistical methods, emphasizing computation over mathematical symbolism."
+=======
+description: "A mini bookdown tutorial book on how to make bookdown books."
+>>>>>>> 98dbfbbe75f3f3d586fb4b18d167b2010e6daa55
 ---
 
 # Welcome {#welcome}
