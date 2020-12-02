@@ -11,7 +11,7 @@ biblio-style: apalike
 link-citations: yes
 github-repo: danBurrell/computational-statistics
 description: "A text on statistical methods, emphasizing computation over mathematical symbolism."
-
+---
 # Welcome {#welcome}
 
 hi
